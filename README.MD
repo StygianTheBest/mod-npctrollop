@@ -1,13 +1,13 @@
 # Trollop NPC
 
-_This module was created for [StygianCore](https://rebrand.ly/stygiancoreproject). A World of Warcraft 3.3.5a Solo/LAN repack by StygianTheBest | [GitHub](https://rebrand.ly/stygiangithub) | [Website](https://rebrand.ly/stygianthebest))_
+_This module was created for [StygianCore](https://rebrand.ly/stygiancoreproject). An AzerothCore 3.3.5a Solo/LAN repack by StygianTheBest | [GitHub](https://rebrand.ly/stygiangithub) | [Website](https://rebrand.ly/stygianthebest))_
 
 ## Description
-------------------------------------------------------------------------------------------------------------------
+
 Everybody needs someone...
 
 ## Data
-------------------------------------------------------------------------------------------------------------------
+
 - Type: NPC
 - Script: Trollop_NPC
 - Config: Yes
@@ -15,15 +15,15 @@ Everybody needs someone...
   - NPC ID: 601041
 
 ## Version
-------------------------------------------------------------------------------------------------------------------
+
 - v2019.02.14 - Release
 
 ### CREDITS
-------------------------------------------------------------------------------------------------------------------
+
 ![Styx](https://stygianthebest.github.io/assets/img/avatar/avatar-128.jpg "Styx")
 ![StygianCore](https://stygianthebest.github.io/assets/img/projects/stygiancore/StygianCore.png "StygianCore")
 
-##### This module was created for [StygianCore](https://rebrand.ly/stygiancoreproject). A World of Warcraft 3.3.5a Solo/LAN repack by StygianTheBest | [GitHub](https://rebrand.ly/stygiangithub) | [Website](https://rebrand.ly/stygianthebest))
+##### This module was created for [StygianCore](https://rebrand.ly/stygiancoreproject). An AzerothCore 3.3.5a Solo/LAN repack by StygianTheBest | [GitHub](https://rebrand.ly/stygiangithub) | [Website](https://rebrand.ly/stygianthebest))
 
 #### Additional Credits
 
@@ -40,5 +40,5 @@ Everybody needs someone...
 - [More credits are cited in the sources](https://github.com/StygianTheBest)
 
 ### LICENSE
-------------------------------------------------------------------------------------------------------------------
+
 This code and content is released under the [GNU AGPL v3](https://github.com/azerothcore/azerothcore-wotlk/blob/master/LICENSE-AGPL3).
